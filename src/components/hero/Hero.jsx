@@ -74,10 +74,7 @@ const Hero = () => {
         Writer Content Creator Influencer
       </motion.div>
       <div className="imageContainer">
-        <video autoPlay loop muted playsInline>
-          <source src="/aydin-unscreen.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+        <img src="/noback1.png" alt="Hero" />
       </div>
     </div>
   );
